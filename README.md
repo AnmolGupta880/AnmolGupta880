@@ -1,3 +1,4 @@
+![logo](https://github.com/AnmolGupta880/AnmolGupta880/blob/main/Connor%20Hamilton.png)
 <h1 align="center">Hi 👋, I'm ANMOL GUPTA</h1>
 <h3 align="left">An aspiring Full Stack Developer currently in my third year of Engineering. <br />
   I believe in learning by doing, and my GitHub repository is a testament to that philosophy.<br/>
