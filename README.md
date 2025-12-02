@@ -1,10 +1,10 @@
 ![logo](https://github.com/AnmolGupta880/AnmolGupta880/blob/main/Connor%20Hamilton.png)
 <h1 align="center">Hi 👋, I'm ANMOL GUPTA</h1>
-<h3 align="left">An aspiring Full Stack Developer currently in my third year of Engineering. <br />
-  I believe in learning by doing, and my GitHub repository is a testament to that philosophy.<br/>
-  From creating efficient algorithms to designing user-friendly applications, each project tells a story of growth and innovation. <br/>
-  Check out my repositories to witness my coding odyssey with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc.<br/>
-  I love exploring new things in terms of learning and also trying different things  </h3>
+<h3 align="left">A Full Stack and DevOps Developer and recent Engineering graduate.
+I believe in learning by doing, and my GitHub repository is a testament to that philosophy.
+From creating efficient algorithms to designing user-friendly applications, each project tells a story of growth and innovation.
+Check out my repositories to witness my coding journey with a strong foundation in JavaScript, Node.js, MongoDB, React, Next.js, AWS, and DevOps practices.
+I love exploring new things, continuously learning, and experimenting with different technologies to broaden my skill set.  </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
